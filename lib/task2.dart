@@ -19,7 +19,7 @@ class Novel extends Book {
 void main() {
   // Example usage:
   final novel = Book(
-    title: 'What remain of me',
+    title: 'What remains of me',
     author: 'Ahmed Wael Rabea',
     numOfPages: 123,
   );
